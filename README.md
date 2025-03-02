@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
   <span style="display: inline-block; text-align: center;">
-    Java<br>
+    <br>
     <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java-original.svg" alt="java" width="40" height="40"/> 
     </a> 
