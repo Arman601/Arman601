@@ -25,7 +25,7 @@
   <span style="display: inline-block; text-align: center;">
     Java<br>
     <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java-original.svg" alt="java" width="40" height="40"/> 
     </a> 
   </span>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
