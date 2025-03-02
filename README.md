@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arman601&label=Profile%20views&color=0e75b6&style=flat" alt="arman601" /> </p>
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **armanhasan7645@gmail.com**
 
